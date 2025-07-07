@@ -49,4 +49,4 @@ Tokyo-Hot 经典影片归档页
 
 避免随意点击不明广告，防止跳转诈骗页
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mjq1221/76455 ）</span>
